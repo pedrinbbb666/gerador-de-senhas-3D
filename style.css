@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root{
+    --branco: white;
+    --cor-de-fundo: #6FCF97;
+    --fundo-senha: #1F6F5F;
+    --fundo-texto: #DDDDDD;
+    --borda: #0D0B61;
+    --open: "Open Sans", sans-serif;
+}
+*{
+    font-weight:400;
+}
+body{
+    color:var(--branco);
+    background-color:var(--cor-de-fundo);
+    font-family:var(--open)
+}
