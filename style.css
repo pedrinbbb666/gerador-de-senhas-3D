@@ -6,7 +6,7 @@
     --fundo-senha: #1F6F5F;
     --fundo-texto: #DDDDDD;
     --borda: #0D0B61;
-    --open: "Open Sans", sans-serif;
+    --fonte: "Open Sans", sans-serif;
 }
 *{
     font-weight:400;
@@ -15,4 +15,9 @@ body{
     color:var(--branco);
     background-color:var(--cor-de-fundo);
     font-family:var(--open)
+}
+.titulo-principal{
+text-align: center;
+margin-top:80xp;
+
 }
